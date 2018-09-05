@@ -1,5 +1,5 @@
 package cscc.edu;
-
+import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class Main {
 	Integrate Git with IntelliJ using GitHub
 	Hello World program
 	 */
-
+        System.out.println("Hello World!");
     }
 }
